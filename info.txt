@@ -1,0 +1,3 @@
+https://github.com/mozilla/geckodriver/releases   #драйвер для мозилы
+https://chromedriver.storage.googleapis.com/index.html   #драйвер для хрома
+https://chromedriver.storage.googleapis.com/index.html #ссылка на библиотеку github
